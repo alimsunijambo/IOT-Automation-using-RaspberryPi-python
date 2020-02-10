@@ -137,3 +137,5 @@ Features:
      
 ![alt text](https://github.com/amalpoulose/Home-Automation-using-RaspberryPi-IOT/blob/master/circuit-breadboard-1.jpg)
 ![alt text](https://github.com/amalpoulose/Home-Automation-using-RaspberryPi-IOT/blob/master/circuit-breadboard-2.jpg)
+## License
+IOT-Automation-using-RaspberryPi-python is made with 🖤 by Alimsuni The Kenyan Tech Master & All [You can find me on facebook and linkedin](https://www.facebook.com/alimsunicomputersolutions/). See the **License** file for more details.
